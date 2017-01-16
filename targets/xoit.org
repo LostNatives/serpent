@@ -1,0 +1,8 @@
+Basic Info
+-----------
+Domain: xoit.org
+URL: https://xoit.org
+IPV4 address: 104.27.155.115
+ 
+### Start Recon Report Here. ###
+-----------------------------------
