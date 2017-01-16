@@ -91,13 +91,12 @@ def main():
 def report():
     try:
         host = sys.argv[1]
-        if host == ""
         domain = get_tld(host)
         ROOT_DIR = 'targets'
         create_dir(ROOT_DIR)
         project_dir = ROOT_DIR + '/'
         create_dir(project_dir)
-        write_file(project_dir + '/' + domain, user())
+        write_file(project_dir + '/' + domain + ".txt", user())
     except (KeyboardInterrupt, SystemExit):
         print ("CTR+C! Exiting...")
     except NameError:
