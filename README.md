@@ -1,7 +1,7 @@
 # Serpent
 Security Reconnaissance Report Generator
 
-** I request that you don't use this for malicious intent **
+**I request that you don't use this for malicious intent**
 
 ## What is it?
 Serpent gathers basic information on a requested target/host and outputs the results to a created directory "targets" and stores all results in a organized fashion.
