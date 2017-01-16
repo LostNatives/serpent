@@ -16,7 +16,7 @@ pip install -r requirements.txt
 
 ## Usage
 
-` python serpent.py <URL>`
+` python serpent.py <URL>`<br />
 `Example: python serpent.py https://cameron.li/`
 
 ## License
