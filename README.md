@@ -1,12 +1,10 @@
-# ReconSnake
-Automated Information Gathering with Common Reconnaissance Tools
+# Serpent
+Security Reconnaissance Report Generator
 
-**Only Scan Consented Host**
-
-Tested on Debian 8
+** I request that you don't use this for malicious intent **
 
 ## What is it?
-Serpent gathers basic infomation from a requested target/host and outputs the results to a created directory "targets" and stores all results in a organized fashion.
+Serpent gathers basic information on a requested target/host and outputs the results to a created directory "targets" and stores all results in a organized fashion.
 
 ## Install
 
