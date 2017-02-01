@@ -18,7 +18,7 @@ except ImportError:
 def banner():
     print ("""
  Welcome to Serpent Security Recon Tool
- github.com/cameronpoe/serpent
+ github.com/z4y/serpent
  """)
 
 # Grabbing ipv4 ip
@@ -104,7 +104,7 @@ def report():
         sys.exit()
     except IndexError:
         print ("No URL Specifed!")
-        print ("Example: " + sys.argv[0] + " https://cameron.li/")
+        print ("Example: " + sys.argv[0] + " https://zay.li/")
         sys.exit()
 
 if __name__ == "__main__":
