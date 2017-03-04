@@ -16,8 +16,10 @@ pip install -r requirements.txt
 
 ## Usage
 
-` python serpent.py <URL>`<br />
-`Example: python serpent.py https://zay.li/`
+```bash
+python serpent.py <URL>
+Example: python serpent.py https://zay.li/
+```
 
 ## License
 
