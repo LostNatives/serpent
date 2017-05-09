@@ -9,7 +9,7 @@ Serpent gathers basic information on a requested target/host and outputs the res
 ## Install
 
 ```bash
-git clone https://github.com/z4y/serpent
+git clone https://github.com/initnix/serpent
 cd serpent
 pip install -r requirements.txt
 ```
@@ -18,7 +18,7 @@ pip install -r requirements.txt
 
 ```bash
 python serpent.py <URL>
-Example: python serpent.py https://zay.li/
+Example: python serpent.py https://ghostalk.net/
 ```
 
 ## License
