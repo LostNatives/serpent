@@ -18,7 +18,7 @@ except ImportError:
 def banner():
     print ("""
  Welcome to Serpent Security Recon Tool
- github.com/z4y/serpent
+ github.com/initnix/serpent
  """)
 
 # Grabbing ipv4 ip
